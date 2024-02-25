@@ -1,0 +1,36 @@
+.content {
+  width: 80vw;
+  margin: 20px auto;
+}
+
+.header {
+  width: 90%;
+  margin: 10px auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 200px;
+  border-bottom: 10px solid black;
+}
+
+.header-title {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.header-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.table-section {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.table-header {
+  color: black;
+  border: 3px solid black;
+}
